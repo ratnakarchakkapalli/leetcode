@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0043-multiply-strings) |
+| [0981-time-based-key-value-store](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Simulation
 |  |
 | ------- |
@@ -49,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0435-non-overlapping-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0981-time-based-key-value-store) |
+## Binary Search
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0981-time-based-key-value-store) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
