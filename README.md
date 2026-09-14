@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0494-target-sum) |
@@ -56,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -90,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
