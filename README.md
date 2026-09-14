@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0198-house-robber) |
+| [0349-intersection-of-two-arrays](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0494-target-sum) |
 | [0724-find-pivot-index](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0724-find-pivot-index) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -72,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0981-time-based-key-value-store](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Design
 |  |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/ratnakarchakkapalli/leetcode/tree/master/1768-merge-strings-alternately) |
