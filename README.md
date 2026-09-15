@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0202-happy-number) |
+| [2485-find-the-pivot-integer](https://github.com/ratnakarchakkapalli/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/ratnakarchakkapalli/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
