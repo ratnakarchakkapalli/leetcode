@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0198-house-robber) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
