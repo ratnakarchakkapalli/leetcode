@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/ratnakarchakkapalli/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ratnakarchakkapalli/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Backtracking
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/ratnakarchakkapalli/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Sorting
 |  |
 | ------- |
