@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0091-decode-ways) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0791-custom-sort-string) |
 | [0981-time-based-key-value-store](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0791-custom-sort-string) |
 | [0981-time-based-key-value-store](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0567-permutation-in-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
