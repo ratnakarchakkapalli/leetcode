@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0494-target-sum) |
 | [0724-find-pivot-index](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0846-hand-of-straights](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0846-hand-of-straights](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ratnakarchakkapalli/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Sorting
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0791-custom-sort-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0791-custom-sort-string) |
+| [0846-hand-of-straights](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0791-custom-sort-string) |
+| [0846-hand-of-straights](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0981-time-based-key-value-store) |
 ## Binary Search
 |  |
