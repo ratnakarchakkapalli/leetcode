@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0743-network-delay-time](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0743-network-delay-time) |
 ## String Matching
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Data Stream
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0743-network-delay-time](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0743-network-delay-time) |
 ## Matrix
 |  |
 | ------- |
@@ -291,4 +294,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
