@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/ratnakarchakkapalli/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0791-custom-sort-string) |
 | [0981-time-based-key-value-store](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/ratnakarchakkapalli/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/ratnakarchakkapalli/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Simulation
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0743-network-delay-time) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ratnakarchakkapalli/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
