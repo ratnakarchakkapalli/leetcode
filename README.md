@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0494-target-sum) |
 | [0724-find-pivot-index](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0853-car-fleet) |
@@ -275,10 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0853-car-fleet) |
 ## Bucket Sort
 |  |
