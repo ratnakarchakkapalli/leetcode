@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0494-target-sum) |
+| [0695-max-area-of-island](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## String Matching
@@ -274,12 +276,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Matrix
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0695-max-area-of-island) |
 ## Stack
 |  |
 | ------- |
@@ -328,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ratnakarchakkapalli/leetcode/tree/master/1143-longest-common-subsequence) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
