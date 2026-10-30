@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0198-house-robber) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0063-unique-paths-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0695-max-area-of-island) |
 ## Stack
