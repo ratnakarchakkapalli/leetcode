@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0091-decode-ways) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0198-house-robber) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0695-max-area-of-island) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0695-max-area-of-island) |
 ## Stack
