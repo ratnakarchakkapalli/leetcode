@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0494-target-sum) |
+| [0621-task-scheduler](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0739-daily-temperatures) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ratnakarchakkapalli/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0621-task-scheduler) |
 | [0791-custom-sort-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0853-car-fleet) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0846-hand-of-straights) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -263,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
