@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ratnakarchakkapalli/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2013-detect-squares](https://github.com/ratnakarchakkapalli/leetcode/tree/master/2013-detect-squares) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ratnakarchakkapalli/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Backtracking
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0981-time-based-key-value-store) |
+| [2013-detect-squares](https://github.com/ratnakarchakkapalli/leetcode/tree/master/2013-detect-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0981-time-based-key-value-store) |
+| [2013-detect-squares](https://github.com/ratnakarchakkapalli/leetcode/tree/master/2013-detect-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0621-task-scheduler) |
+| [2013-detect-squares](https://github.com/ratnakarchakkapalli/leetcode/tree/master/2013-detect-squares) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2013-detect-squares](https://github.com/ratnakarchakkapalli/leetcode/tree/master/2013-detect-squares) |
 ## Quicksort
 |  |
 | ------- |
