@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0355-design-twitter](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0621-task-scheduler) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0981-time-based-key-value-store) |
 | [2013-detect-squares](https://github.com/ratnakarchakkapalli/leetcode/tree/master/2013-detect-squares) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0743-network-delay-time) |
@@ -371,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0695-max-area-of-island) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/ratnakarchakkapalli/leetcode/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
